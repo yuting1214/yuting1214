@@ -8,15 +8,22 @@ I thrive a build a data-driven product with the improving analystic techniques a
 
 <br/>
 
-# Analytical Skills
+## Analytical Skills
 * Experimental Design
 * Causal Inference
 * Machine Learning
 * Data Visualization
 
-* Modeling Skills
+## Modeling Skills
+* Machine Learning
+* Deep Learning:
+** NLP
+  
 # Programming Skills
-* D
+* Language: Python, R, C , SAS
+* Database: PostgreSQL, MySQL, SQL Server, MongoDB
+* ETL: Airflow, Spark
+* Cloud: AWS EC2, S3, Lambda, SageMaker
 
 # Socials 📝
 

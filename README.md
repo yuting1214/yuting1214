@@ -1,7 +1,4 @@
-# yutingchen1214
-My personal repository
-
-# Hi there 👋, I am Rwitam Bandyopadhyay!
+# Hi there 👋, I am Yu-Ting(Mark, Chen
 
 I write code by day and compose tunes by night, a full-stack software developer and musician in perfect harmony.
 

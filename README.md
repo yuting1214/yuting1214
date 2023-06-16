@@ -10,8 +10,8 @@ I write code by day and compose tunes by night, a full-stack software developer 
 
 # Socials 📝
 
-[<img alt="rwitamb | LinkedIn" height="32px" src="icons/LinkedIn.svg"/>][linkedin]
-[<img alt="rwitamb | Instagram" height="32px" src="icons/Instagram.svg" />][instagram]
+[<img alt="mark_chen | LinkedIn" height="32px" src="icons/LinkedIn.svg"/>][linkedin]
+[<img alt="mark_chen | Instagram" height="32px" src="icons/Instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/rwitamb/
-[linkedin]: https://www.linkedin.com/in/rwitamb/
+[instagram]: https://www.instagram.com/yuting_ya/
+[linkedin]: https://www.linkedin.com/in/yu-ting-chen/

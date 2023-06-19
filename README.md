@@ -1,10 +1,11 @@
 # Hi there 👋, I am Yu-Ting(Mark, Chen
 
-I thrive a build a data-driven product with the improving analystic techniques and production code expertise.
+* I’m a data enthusiast thriving to build a data-driven product that harnesses the power of analytical techniques and high-quality production code.
+* Currently working on a data-driven project focused on developing an stock trading system that provides daily real-time information, interactive visualizations, and automated strategy backtesting, revolutionizing investment decision-making and enhancing trading performance .
 
 <br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=ableton,arduino,aws,bash,bootstrap,c,cpp,css,d3,django,docker,dotnet,dynamodb,eclipse,electron,express,github,gradle,heroku,hibernate,html,java,js,jenkins,jquery,kafka,latex,md,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,py,raspberrypi,react,regex,spring,selenium,vscode,)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=aws,bash,bootstrap,css,d3,docker,github,heroku,html,latex,md,mongodb,mysql,postgres,py,selenium,vscode,)](https://skillicons.dev)
 
 <br/>
 

@@ -1,30 +1,30 @@
 # Hi there 👋, I am Yu-Ting(Mark, Chen
 
-* I’m a data enthusiast thriving to build a data-driven product that harnesses the power of analytical techniques and high-quality production code.
-* Currently working on a data-driven project focused on developing an stock trading system that provides daily real-time information, interactive visualizations, and automated strategy backtesting, revolutionizing investment decision-making and enhancing trading performance .
+I’m a data enthusiast thriving to build a data-driven product that harnesses the power of analytical techniques and high-quality production code.
 
-<br/>
-
-[![SkillIcons](https://skillicons.dev/icons?i=aws,bash,bootstrap,css,d3,docker,github,heroku,html,latex,md,mongodb,mysql,postgres,py,selenium,vscode,)](https://skillicons.dev)
-
-<br/>
+* Currently working on a data-driven [project](https://github.com/yuting1214/Financial_proj) focused on developing an stock trading system that provides daily real-time information, interactive visualizations, and strategy backtesting to revolutionize investment decision-making and enhance trading performance .
 
 ## Analytical Skills
 * Experimental Design
 * Causal Inference
-* Machine Learning
 * Data Visualization
 
 ## Modeling Skills
 * Machine Learning
 * Deep Learning:
-** NLP
+  * NLP
   
-# Programming Skills
+## Programming Skills
 * Language: Python, R, C , SAS
 * Database: PostgreSQL, MySQL, SQL Server, MongoDB
 * ETL: Airflow, Spark
 * Cloud: AWS EC2, S3, Lambda, SageMaker
+
+<br/>
+
+[![SkillIcons](https://skillicons.dev/icons?i=py,r,bash,mysql,postgres,mongodb,aws,flask,docker,github,heroku,latex,md,vscode,)](https://skillicons.dev)
+
+<br/>
 
 # Socials 📝
 

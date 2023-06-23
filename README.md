@@ -35,7 +35,23 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 [linkedin]: https://www.linkedin.com/in/yu-ting-chen/
 
 # To-do projects:
-* Sentiment analysis from static embedding to dynamic embedding(BERT)
- * Problem type: Multiclass text classification
- * Skills: Python, Hugging Face, Pytorch, NLP
- * Values: TBD
+* NLP
+  * Problem type: Multiclass text classification
+  * Brief: Sentiment analysis from static embedding to dynamic embedding(BERT)
+  * Dataset: TBD
+  * Skills: Python, Hugging Face, Pytorch, NLP
+  * Values: TBD
+
+* Causal Inference
+  * Problem type: TBD
+  * Brief: TBD
+  * Dataset: TBD
+  * Skills: TBD
+  * Values: TBD
+
+* Recommender System
+  * Problem type: TBD
+  * Brief: TBD
+  * Dataset: TBD
+  * Skills: TBD
+  * Values: TBD

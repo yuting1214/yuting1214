@@ -33,3 +33,9 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 
 [instagram]: https://www.instagram.com/yuting_ya/
 [linkedin]: https://www.linkedin.com/in/yu-ting-chen/
+
+# To-do projects:
+* Sentiment analysis from static embedding to dynamic embedding(BERT)
+ * Problem type: Multiclass text classification
+ * Skills: Python, Hugging Face, Pytorch, NLP
+ * Values: TBD

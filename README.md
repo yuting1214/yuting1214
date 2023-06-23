@@ -41,6 +41,7 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
   * Dataset: TBD
   * Skills: Python, Hugging Face, Pytorch, NLP
   * Values: TBD
+  * [Link](https://github.com/yuting1214/sentiment_analysis/tree/main)
 
 * Causal Inference
   * Problem type: TBD

@@ -12,7 +12,7 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 ## Modeling Skills
 * Machine Learning
 * Deep Learning:
-  * NLP
+  * NLP: Hugging face, Transformer, BERT
   
 ## Programming Skills
 * Language: Python, R, C , SAS

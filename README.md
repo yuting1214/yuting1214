@@ -2,7 +2,7 @@
 
 I’m a data enthusiast thriving to build a data-driven product that harnesses the power of analytical techniques and high-quality production code.
 
-* Currently working on a data-driven [project](https://github.com/yuting1214/Financial_proj) focused on developing an stock trading system that provides daily real-time information, interactive visualizations, and strategy backtesting to revolutionize investment decision-making and enhance trading performance .
+* Currently working on a [project](https://github.com/yuting1214/Financial_proj) focused on developing an stock trading system that provides daily real-time information, interactive visualizations, and strategy backtesting to revolutionize investment decision-making and enhance trading performance.
 
 ## Analytical Skills
 * Experimental Design
@@ -35,6 +35,14 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 [linkedin]: https://www.linkedin.com/in/yu-ting-chen/
 
 # To-do projects:
+* NLP(LLM)
+  * Problem type: LLM application
+  * Brief: Detect the most suitable jobs to apply
+  * Dataset: TBD
+  * Skills: Python, Hugging Face, OpenAPI
+  * Values: TBD
+  * [Link](https://github.com/yuting1214/)
+    
 * NLP
   * Problem type: Multiclass text classification
   * Brief: Sentiment analysis from static embedding to dynamic embedding(BERT)

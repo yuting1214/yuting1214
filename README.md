@@ -12,7 +12,7 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 ## Modeling Skills
 * Machine Learning
 * Deep Learning:
-  * NLP: Hugging face, Transformer, BERT
+  * NLP: Hugging face, Transformer, BERT, GPT
   
 ## Programming Skills
 * Language: Python, R, C , SAS
@@ -34,15 +34,7 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 [instagram]: https://www.instagram.com/yuting_ya/
 [linkedin]: https://www.linkedin.com/in/yu-ting-chen/
 
-# To-do projects:
-* NLP(LLM)
-  * Problem type: LLM application
-  * Brief: Detect the most suitable jobs to apply
-  * Dataset: TBD
-  * Skills: Python, Hugging Face, OpenAPI
-  * Values: TBD
-  * [Link](https://github.com/yuting1214/)
-    
+# To-do projects:    
 * NLP
   * Problem type: Multiclass text classification
   * Brief: Sentiment analysis from static embedding to dynamic embedding(BERT)

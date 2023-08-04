@@ -10,9 +10,12 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 * Data Visualization
 
 ## Modeling Skills
-* Machine Learning
+* Machine Learning:
+  * Modeling: Regression, SVM, Tree-based models
+  * Auto ML: AutoGluon, Ray, Optuna   
 * Deep Learning:
   * NLP: Hugging face, Transformer, BERT, GPT
+  * RL: Value-based, Policy-based, Actor-Criti methods
   
 ## Programming Skills
 * Language: Python, R, C , SAS
@@ -37,9 +40,9 @@ I’m a data enthusiast thriving to build a data-driven product that harnesses t
 # To-do projects:    
 * NLP
   * Problem type: Multiclass text classification
-  * Brief: Sentiment analysis from static embedding to dynamic embedding(BERT)
+  * Brief: Sentiment analysis from static embedding, dynamic embedding(BERT), to LLM 
   * Dataset: TBD
-  * Skills: Python, Hugging Face, Pytorch, NLP
+  * Skills: Python, Hugging Face, Pytorch, NLP, Openai
   * Values: TBD
   * [Link](https://github.com/yuting1214/sentiment_analysis/tree/main)
 

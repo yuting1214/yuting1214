@@ -1,25 +1,26 @@
 # Hi there 👋, I am Yu-Ting(Mark, Chen
 
-I’m a data enthusiast thriving to build a data-driven product that harnesses the power of analytical techniques and high-quality production code.
+I’m a data enthusiast building data-driven products that harness the power of analytical techniques and high-quality production code.
 
 * Currently working on a [project](https://github.com/yuting1214/Financial_proj) focused on developing an stock trading system that provides daily real-time information, interactive visualizations, and strategy backtesting to revolutionize investment decision-making and enhance trading performance.
 
 ## Analytical Skills
 * Experimental Design
+* Statistical Analysis
 * Causal Inference
 * Data Visualization
 
 ## Modeling Skills
 * Machine Learning:
   * Modeling: Regression, SVM, Tree-based models
-  * Auto ML: AutoGluon, Ray, Optuna   
+  * Auto ML: Ray, Optuna, AutoGluon   
 * Deep Learning:
   * NLP: Hugging face, Transformer, BERT, GPT
   * RL: Value-based, Policy-based, Actor-Criti methods
   
 ## Programming Skills
-* Language: Python, R, C , SAS
-* Database: PostgreSQL, MySQL, SQL Server, MongoDB
+* Language: Python, R
+* Database: PostgreSQL, MySQL, Redis, MongoDB
 * ETL: Airflow, Spark
 * Cloud: AWS EC2, S3, Lambda, SageMaker
 

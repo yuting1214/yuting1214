@@ -2,7 +2,7 @@
 
 I’m a data enthusiast building data-driven products that harness the power of analytical techniques and high-quality production code.
 
-* Currently working on integrating LLM into Web App. See recent [project](https://github.com/yuting1214/FastAPIChat).
+* I built templates for developers to integrate LLM into their applications. [Works](https://railway.app/u/yuting1214)
 
 <br/>
 
